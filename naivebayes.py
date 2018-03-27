@@ -2,7 +2,6 @@ import re
 import csv
 from sklearn.metrics import f1_score
 
-
 y_true = []
 y_pred = []
 
